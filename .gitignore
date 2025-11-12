@@ -1,0 +1,32 @@
+# Node / Monorepo
+node_modules/
+pnpm-lock.yaml
+npm-debug.log*
+yarn-error.log*
+coverage/
+dist/
+.tmp/
+
+# Next.js
+.next/
+out/
+.vercel/
+
+# Strapi
+apps/cms/.cache/
+apps/cms/build/
+apps/cms/.tmp/
+apps/cms/public/uploads/
+
+# Env
+.env
+.env.*.local
+apps/**/.env
+apps/**/.env.local
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/*
+!.vscode/extensions.json
