@@ -1,0 +1,10 @@
+loc,sitemap,type,notes
+https://www.medintegro.com.ua/,page-sitemap.xml,page,Home
+https://www.medintegro.com.ua/pro-nas/,page-sitemap.xml,page,About
+https://www.medintegro.com.ua/kontakti/,page-sitemap.xml,page,Contact
+# Paste the rest of the URLs exported from Yoast sitemap here.
+# Columns:
+# - loc: full URL from sitemap
+# - sitemap: which sitemap file it came from (page-sitemap.xml, post-sitemap.xml, etc.)
+# - type: your classification (page, post, equipment, solution, category, tag, other)
+# - notes: anything helpful for migration/redirects
